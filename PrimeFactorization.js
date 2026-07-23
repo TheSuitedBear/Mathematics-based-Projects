@@ -2,3 +2,6 @@
 
 let ButtonPress = null,
 
+function ButtonPress() {
+    let number = input(int("Please enter a number: ")),
+},
